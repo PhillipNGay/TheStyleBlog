@@ -1,1 +1,1 @@
-# theStyleblog
+# bootstrap-5-full-image-cover-template
